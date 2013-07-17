@@ -157,7 +157,7 @@
           <p>
         <small>
         <a href="http://www.napcaesmind.de">napcae's mind</a> 2013
-        &middot; <a href="http://napcae.wordpress.com/impressum/">About</a> &middot; <a href="#">Login</a>
+        &middot; <a href="/impressum">About</a> &middot; <a href="#">Login</a>
         <br><br>
         <div align="center">proudly hosted on<img width="28" src="/img/raspi.png"></div>
         </small>

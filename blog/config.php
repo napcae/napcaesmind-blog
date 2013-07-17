@@ -21,6 +21,7 @@ $config['excerpt_length'] = 50;			// The pages excerpt length (in words)
 $config['custom_setting'] = 'Hello'; 	// Can be accessed by {{ config.custom_setting }} in a theme
 
 */
+$config['site_title'] = 'napcae\'s mind';
 $config['pages_order_by'] = 'date';	// Order pages by "alpha" or "date"
 $config['pages_order'] = 'desc';			// Order pages "asc" or "desc"
 $config['pagination_limit'] = 8;
