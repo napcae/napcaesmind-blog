@@ -224,7 +224,7 @@ textarea {
 
 body {
   margin: 0;
-  font-family: "Source Sans Pro",sans-serif;/*,"Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-family: "Source Sans Pro","Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
   color: #333333;
@@ -740,7 +740,7 @@ h4,
 h5,
 h6 {
   margin: 10px 0;
-  font-family: inherit;
+  font-family:"Source Sans Pro","Helvetica Neue", inherit;
   font-weight: bold;
   line-height: 20px;
   color: inherit;
