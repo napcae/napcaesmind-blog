@@ -80,7 +80,6 @@
                     <div class="media-body"> 
                         {% if is_front_page %} <!-- Front page lists all blog posts -->
                           <div id="posts">
-                          
                                 {% for page in paged_pages %}
                                     <div class="post">
                                         <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
