@@ -8,7 +8,7 @@
         <meta name="description" content="">
         <meta name="author" content="Chi Trung Nguyen">
         <!-- Le styles -->
-        <link href="/css/bootstrap.css" rel="stylesheet">
+        <link href="./css/bootstrap.css" rel="stylesheet">
         <style type="text/css">
             body {
                 padding-top: 20px;
