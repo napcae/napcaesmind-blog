@@ -241,18 +241,12 @@ textarea {
 }
 
 body {
-  font-size: 100%
   margin: 0;
   font-family: "Source Sans Pro","Helvetica Neue", Helvetica, Arial, sans-serif;
-  /*font-size: 14px;*/
+  font-size: 14px;
   line-height: 20px;
   color: #333333;
   background-color: #F9F9F9;
-  @media only screen and (max-width: 400px) {
-                body { font-size:50%;}
- }
-
-
 }
 
 a {
