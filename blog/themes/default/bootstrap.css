@@ -9,6 +9,24 @@
  */
 .typekit-badge {display:none !important;}
 
+/*
+http://www.elmastudio.de/programmierung/css/css-tipp-eingebettete-videos-fur-responsive-webdesigns-optimieren 
+*/
+.elastic-video {
+	position: relative;
+	padding-bottom: 55%;
+	padding-top: 15px;
+	height: 0;
+	overflow: hidden;
+}
+.elastic-video iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
 .clearfix {
   *zoom: 1;
 }

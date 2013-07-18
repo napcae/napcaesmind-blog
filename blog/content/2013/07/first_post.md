@@ -11,6 +11,7 @@ I'll also try to write more often and probably longer articles here and then.
 Everything is hosted on my Raspberry now and this is just a test for my auto post-receive hook for git.
 
 Here's a kitten video for your delight.
-<iframe width="560" height="315" src="//www.youtube.com/embed/D36JUfE1oYk" frameborder="0" allowfullscreen></iframe>
+<div class="elastic-video">
+<iframe width="520" height="315" src="//www.youtube.com/embed/D36JUfE1oYk" frameborder="0" allowfullscreen></iframe></div>
 
 
