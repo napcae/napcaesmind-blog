@@ -9,6 +9,7 @@
 
     <!-- Le styles -->
     <link href="/css/bootstrap.css" rel="stylesheet">
+    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
     <style type="text/css">
       body {
         padding-top: 20px;
@@ -46,7 +47,6 @@
         margin-top: 28px;
       }
     </style>
-    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
     
      <!-- Adobe Typekit -->
     <script type="text/javascript" src="//use.typekit.net/wvy8zpw.js"></script>
@@ -61,22 +61,43 @@
   <body>
      <div class="container-narrow" style="padding:0 19px">
                 <div class="masthead">
-                    <ul class="nav nav-pills pull-right">
-                        <li>
-                            <a href="/index.html">Home</a>
-                        </li>
-                        <li>
-                            <a href="/blog">Blog</a>
-                        </li>
-                        <li>
-                            <li class="active"><a href="/status.php">Systemstatus</a>
-                        </li>
-                        <li>
-                            <a href="/contact.html">Contact</a>
-                        </li>
-                    </ul>
-                     <h3 class="muted">napcae's mind</h3>
-                </div>
+                            <div class="hidden-phone">
+                                <ul class="nav nav-pills pull-right">
+                                    <li>
+                                        <a href="/index.html">Home</a>
+                                    </li>
+                                    <li>
+                                        <a href="/blog">Blog</a>
+                                    </li>
+                                    <li>
+                                        <li class="active"><a href="/status.php">Systemstatus</a>
+                                    </li>
+                                    <li>
+                                        <a href="/contact.html">Contact</a>
+                                    </li>
+                                </ul>
+                                 <h3 class="muted">napcae's mind</h3>
+                            </div>
+                            </div><!-- hidden-phone -->
+                            
+                            <div class="visible-phone">
+                                <h3 class="muted">napcae's mind</h3>
+                                <ul class="nav nav-pills nav-stacked">
+                                    <li>
+                                        <a href="/index.html">Home</a>
+                                    </li>
+                                    <li>
+                                        <a href="/blog">Blog</a>
+                                    </li>
+                                    <li>
+                                        <li class="active"><a href="/status.php">Systemstatus</a>
+                                    </li>
+                                    <li>
+                                        <a href="/contact.html">Contact</a>
+                                    </li>
+                                </ul>
+                            </div><!-- visible-phone -->
+
                 <hr>
       
     <div class="row-fluid">
