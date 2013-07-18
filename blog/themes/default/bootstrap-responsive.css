@@ -925,10 +925,14 @@
     padding-right: 10px;
     padding-left: 10px;
   }
-  .media .pull-left,
+  .media .pull-left {
+    display: block;
+    float: left;
+    margin-bottom: 10px;
+  }
   .media .pull-right {
     display: block;
-    float: none;
+    float: right;
     margin-bottom: 10px;
   }
   .media-object {
