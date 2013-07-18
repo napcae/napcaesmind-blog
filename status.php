@@ -73,7 +73,7 @@
         <ul class="nav nav-pills pull-right">
           <li><a href="/index.html">Home</a></li>
           <li><a href="/blog">Blog</a></li>
-          <li class="/active"><a href="#">Systemstatus</a></li>
+          <li class="active"><a href="#">Systemstatus</a></li>
           <li><a href="/contact.html">Contact</a></li>
         </ul>
         <h3 class="muted">napcae's mind</h3>
