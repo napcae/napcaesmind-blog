@@ -79,24 +79,32 @@
                         
                     <div class="media-body"> 
                         {% if is_front_page %} <!-- Front page lists all blog posts -->
-                          <div id="posts">
                                 {% for page in paged_pages %}
-                                    <div class="post">
                                         <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
                                         <p class="meta">{{ page.date_formatted }}</p>
                                         <p class="excerpt">{{ page.content }}</p>
                                         <hr>
-                                    </div>
                                 {% endfor %}
-                                </div>
-                                {{ pagination_links }}
+
+                                <div class="row-fluid">
+                                    <div class="span6">
+                                        {{  prev_page }}
+                                    </div>
+                                    <div class="span1 offset5">
+                                        {{ next_page }}
+                                    </div>
+                                </div><!-- row-fluid -->
+
+                                <!--  {{ pagination_links }}-->
                                 
                             {% else %} <!-- Single page shows individual blog post -->
                             
                                 <div class="post">
-                                    {% if meta.title %}<h2>{{ meta.title }}</h2>{% endif %}
-                                    <p class="meta">{{ meta.date_formatted }}</p>
+                                <h4>Published on {{ meta.date_formatted }}</h4>
+                                    {% if meta.title %}<h1>{{ meta.title }}</h1>{% endif %}
+                                    <br>
                                     {{ content }}
+                                    <hr>
                                 </div>
                                 <!-- Disqus-->
                                     <div id="disqus_thread"></div>
