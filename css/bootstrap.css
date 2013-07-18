@@ -228,7 +228,7 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #333333;
-  background-color: #ffffff;
+  background-color: #F9F9F9;
 }
 
 a {
@@ -677,7 +677,7 @@ cite {
 }
 
 .muted {
-  color: #999999;
+  color: #0B486B;
 }
 
 a.muted:hover,
@@ -740,7 +740,7 @@ h4,
 h5,
 h6 {
   margin: 10px 0;
-  font-family:"Source Sans Pro","Helvetica Neue", inherit;
+  font-family:"Source Sans Pro","Helvetica Neue";
   font-weight: bold;
   line-height: 20px;
   color: inherit;
