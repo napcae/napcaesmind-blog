@@ -4,13 +4,14 @@ Author: napcae
 Date: 2012/06/24
 */
 
-Drüben in Polen, Breslau haben [Romain Tardy][1] und [Thomas Vaquie][2] die [Hala Stulecia][3] ([Jahrhunderthalle][4]) von innen auf die 65 Meter große Kuppel mit Projektoren beleuchtet und es sieht wirklich krass aus! Die dauerhafte Videoinstallation könnt ihr hier bestaunen:  
-[vimeo http://www.vimeo.com/41486619 w=500&h=334] 
-[O (Omicron)][5] from [Romain Tardy (AntiVJ)][6] on [Vimeo][7].
+Drüben in Polen, Breslau haben [Romain Tardy][1] und [Thomas Vaquie][2] die [Hala Stulecia][3] ([Jahrhunderthalle][4]) von innen auf die 65 Meter große Kuppel mit Projektoren beleuchtet und es sieht wirklich krass aus! Die dauerhafte Videoinstallation könnt ihr hier bestaunen: 
+<br> 
+<div class="elastic-video"><iframe src="http://player.vimeo.com/video/41486619?portrait=0&amp;color=bababa" width="500" height="334" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<br>
 
 Das Making Of Video gibts hier:  
-[vimeo http://www.vimeo.com/41475403 w=500&h=281] 
-[O (Omicron) / Making of][8] from [Romain Tardy (AntiVJ)][6] on [Vimeo][7].
+<br>
+<div class="elastic-video"><iframe src="http://player.vimeo.com/video/41475403?portrait=0&amp;color=bababa" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
  [1]: http://www.romaintardy.com/
  [2]: http://vimeo.com/thomasvaquie/

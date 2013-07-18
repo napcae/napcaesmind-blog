@@ -10,7 +10,8 @@ Geil.
 
 [heise.de][1]
 
-Passend dazu, die aktuell vor paar Tagen erschienende Doku <a />“TBP AFK: The Pirate Bay Away From Keyboard”</a>. Natürlich per Torrent</a> leechen und seeden <img src='http://198.211.112.164/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' />
+Passend dazu, die aktuell vor paar Tagen erschienende Doku <a />“TBP AFK: The Pirate Bay Away From Keyboard”</a>. Natürlich per Torrent</a> leechen und seeden;)
+
 
  [1]: http://www.heise.de/newsticker/meldung/Pirate-Bay-will-Musiklobby-wegen-Urheberrechtsverletzung-verklagen-1803873.html
- []: http://thepiratebay.se/search/tpb%20afk/0/99/0
+ [2]: http://thepiratebay.se/search/tpb%20afk/0/99/0

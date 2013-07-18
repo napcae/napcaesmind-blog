@@ -21,7 +21,7 @@ Date: 2010/11/10
 </div>
 
 <div style="text-align:left;">
-  <!--more-->
+
 </div>
 
 <div style="text-align:left;">

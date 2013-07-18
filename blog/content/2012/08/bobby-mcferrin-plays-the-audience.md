@@ -4,9 +4,10 @@ Author: napcae
 Date: 2012/08/20
 */
 
-Zwar schon 3 Jahre alt, aber trotzdem immer noch faszinierend <img src='http://198.211.112.164/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> Das krasse daran ist, auf der ganzen Welt scheint die pentatonische Tonleiter bekannt zu sein :O
-
-
+Zwar schon 3 Jahre alt, aber trotzdem immer noch faszinierend :) Das krasse daran ist, auf der ganzen Welt scheint die pentatonische Tonleiter bekannt zu sein :O
+<br>
+<div class="elastic-video"><iframe width="560" height="315" src="//www.youtube.com/embed/ne6tB2KiZuk?theme=light" frameborder="0" allowfullscreen></iframe></div>
+<br>
 
 via [Technology,Entertainment,Design][1]
 

@@ -4,8 +4,8 @@ Author: napcae
 Date: 2012/08/30
 */
 
-Nich lang schnacken, Kopfhörer rauf und go! Absolut geiler Hip Hop Mix! <img src='http://198.211.112.164/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
+Nich lang schnacken, Kopfhörer rauf und go! Absolut geiler Hip Hop Mix! :)
 
-[soundcloud url="http://api.soundcloud.com/tracks/57976321" params="show\_comments=true&auto\_play=false&color=e2e3e0" width="100%" height="81" iframe="false" /]
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F57976321&amp;color=0088cc&amp;auto_play=false&amp;show_artwork=true"></iframe>
 
 Video gibts auch, findet ihr im Netz. Da gibts nämlich kein Ton zu-.-

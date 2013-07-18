@@ -4,13 +4,13 @@ Author: napcae
 Date: 2010/11/03
 */
 
-Im <a href="http://napcae.wordpress.com/2010/11/02/teil-1-erstellen-eines-ssh-servers-mit-hilfe-einer-fritzbox/" target="_blank">1.Teil</a> ging es um die Erstellung des SSH Servers.
+Im <a href="/blog/2010/11/teil-1-erstellen-eines-ssh-servers-mit-hilfe-einer-fritzbox" target="_blank">1.Teil</a> ging es um die Erstellung des SSH Servers.
 
 Für den 2. Teil des Tutorials wird nun ein SOCKS5 Proxy über die Locations(Orte?) von OS X eingerichtet. Außerdem öffnet man einen dynamischen SSH Tunnel.
 
 ## SOCKS5 erstellen
 
-<!--more-->
+
 
 Öffnet dazu zunächst die Systemeinstellungen
 
@@ -36,11 +36,11 @@ Wiederholt diesen Vorgang für AirPort und ggf. weitere Interfaces.
 
 ## Dynamischen Tunnel öffnen
 
-<!--more-->
+
 
 Öffnet ein Terminal und gebt folgendes ein
 
-> <span style="font-family:monospace;">ssh -D 9999 -p 443 -v root@euredomain.dyndns.org</span>
+	$ ssh -D 9999 -p 443 -v root@euredomain.dyndns.org
 
 Das Passwort ist natürlich das, welches man vorher festgelegt hat.
 
@@ -50,4 +50,4 @@ Das Passwort ist natürlich das, welches man vorher festgelegt hat.
 
 Das war’s dann auch schon, aktiviert vorher die Location und gebt dann den Terminalbefehl ein.
 
-<a href="http://wp.me/p6SpR-1l" target="_blank">Teil 3</a> werde ich morgen veröffentlichen.
+<a href="/blog/2010/11/teil-3-optimierung" target="_blank">Teil 3</a> werde ich morgen veröffentlichen.

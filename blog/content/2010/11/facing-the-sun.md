@@ -6,7 +6,7 @@ Date: 2010/11/07
 
 Wisst ihr wer der Sänger von Paul Kalkbrenners Sky and Sand ist?
 
-<!--more-->
+
 
 [youtube=http://www.youtube.com/watch?v=1H5loYi6wVc&fs=1&hl=en_US&hd=1&color1=0x3a3a3a&color2=0x999999]
 

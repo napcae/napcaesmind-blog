@@ -6,9 +6,8 @@ Date: 2012/04/04
 
 Was Dropbox ist, muss ja nun nicht mehr erklärt werden. Auf dem [Offiziellen Blog][1] wird davon berichtet, dass man für jeden Freund und sich selbst 500 Megabyte für eine Installation von Dropbox bekommt. Mit einem Free Account kann man bis zu 32 Freunde einladen, womit man 16 GB bekommt. Mit den anfänglichen 2 GB ergibt das insgesamt 18 GB! Pro Accounts profitieren sogar noch mehr, sie und ihr Freund bekommen 1 GB pro Empfehlung.  
 Hast du schon einige Freunde eingeladen? Kein Problem, im Laufe der nächsten Tage bekommst du den extra Speicher kostenlos dazu!  
-Also los, worauf wartet ihr? [Meldet euch an!][2] <img src='http://198.211.112.164/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
-
-[<img class="aligncenter" src="http://dl.dropbox.com/u/27400983/giftbox.PNG" alt="" />][2]
+Also los, worauf wartet ihr? [Meldet euch an!][2] :)<br>
+[<img class="aligncenter" src="http://dl.dropbox.com/u/27400983/giftbox.PNG" alt="" />][2]<br>
 
 Ende Februar berichtete [Heise][3] von einer Kooperation zwischen Dropbox und HTC. 25 GB für jeden, der sich ein HTC Smartphone aus der ONE Reihe kauft, üblich sind eigentlich 2 GB. In den [Dropbox Foren][4] wurde nun diskutiert, ob es legal sei, diesen Speicher über [diverse Methoden][5] zu erwerben, ohne aber ein HTC One zu haben. Es sieht wohl so aus, als würde dieser Speicher nun wieder abgezogen, sollte er nicht legal erworben worden sein:
 

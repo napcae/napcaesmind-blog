@@ -6,6 +6,5 @@ Date: 2012/11/02
 
 IE wtf.
 
-[<img src="http://napcae.files.wordpress.com/2012/11/13355584686075_f.jpg?w=300" alt="" title="13355584686075_f" width="500" class="aligncenter size-medium wp-image-606" />][1]
+<img src="http://napcae.files.wordpress.com/2012/11/13355584686075_f.jpg" alt="" title="13355584686075_f" class="img-polaroid"/>
 
- [1]: http://napcae.files.wordpress.com/2012/11/13355584686075_f.jpg

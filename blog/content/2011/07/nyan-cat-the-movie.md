@@ -6,6 +6,6 @@ Date: 2011/07/19
 
 Weil’s so schön war.
 
-Nyan Cat als Orchestral Version, have fun <img src='http://198.211.112.164/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' /> 
+Nyan Cat als Orchestral Version, have fun :D
 
-[soundcloud width="100%" height="81" params="" url="http://api.soundcloud.com/tracks/19116017"]
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F19116017&amp;color=0088cc&amp;auto_play=false&amp;show_artwork=true"></iframe>

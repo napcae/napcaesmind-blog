@@ -4,8 +4,15 @@ Author: napcae
 Date: 2012/12/06
 */
 
-[youtube http://www.youtube.com/watch?v=tmw1ayOi5uQ&w=420&h=315]
+<div class="elastic-video">
+<iframe width="420" height="315" src="//www.youtube.com/embed/tmw1ayOi5uQ?theme=light" frameborder="0" allowfullscreen></iframe>
+</div>
 
-[youtube http://www.youtube.com/watch?v=D39anrm4cGo&w=560&h=315]
+ <br>
 
+<div class="elastic-video">
+<iframe width="560" height="315" src="//www.youtube.com/embed/D39anrm4cGo?theme=light" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+ 
 Hmmmm…Just enjoy <3

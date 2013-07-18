@@ -4,4 +4,4 @@ Author: napcae
 Date: 2012/05/13
 */
 
-[vimeo http://www.vimeo.com/41930613 w=500&h=281]
+<div class="elastic-video"><iframe src="http://player.vimeo.com/video/41930613" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> </div>

@@ -10,7 +10,6 @@ Date: 2010/11/09
   <em>“Eine unangenehme körperliche Empfindung, die Menschen und Tiere dazu veranlasst, Nahrung aufzunehmen. Die biologische Funktion dieses Reizes besteht darin, die ausreichende Versorgung des Organismus mit Nährstoffen und Energie sicherzustellen. Ausgelöst wird das Gefühl durch Neurotransmitter im Hypothalamus.”</em><br /> <em><span style="font-size:8px;">http://de.wikipedia.org/wiki/Hunger</span></em>
 </div>
 
-<!--more-->
 
 <div>
   <p style="text-align:left;">

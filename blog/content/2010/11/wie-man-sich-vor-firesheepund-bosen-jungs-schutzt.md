@@ -11,9 +11,9 @@ Heutzutage haben wir’s gut.
 Meldet man sich auf einer Seite, wie zum Beispiel Facebook an, speichert der Browser die Login Daten in einem sogenannten “Session-Cookie”. Dieser ermöglicht es, weiterhin auf der der Seite zu surfen, ohne sich jedes mal neu anzumelden.
 
 Das kann jemanden in einem offenen WLAN Hotspot zum Verhängnis werden, denn mit Eric Butlers Firefox Add On <a href="http://codebutler.com/firesheep" target="_blank">Firesheep</a>, kann man den Datenverkehr mitlesen und sich als fremder User einloggen und böse Spielchen treiben. Hacken für jedermann also.
-
-[youtube=http://www.youtube.com/watch?v=JHKtsuATAh0&fs=1&hl=en_US&hd=1]
-
+<br>
+<div class="elastic-video"><iframe width="420" height="315" src="//www.youtube.com/embed/JHKtsuATAh0?theme=light" frameborder="0" allowfullscreen></iframe></div>
+<br>
 Um sich davor  zu schützen, hilft es einen SSH Tunnel zu bauen und darüber zu surfen. So hat man stets eine verschlüsselte Verbindung.
 
 ![][1]  
@@ -23,9 +23,10 @@ Auf den folgenen Seiten werde ich nach und nach erklären wie man einen SSH Serv
 
 [Teil 1: Erstellen eines SSH Servers mit Hilfe einer Fritz!Box][3]  
 [Teil 2: Erstellen des SOCKS5 Proxys][4]  
-<a href="http://wp.me/p6SpR-1l" target="_blank"> Teil 3: Optimierung</a>
+[Teil 3: Optimierung][5]
 
  [1]: http://dl.dropbox.com/u/689724/wordpress/ssh-tunnel-diagram-ht.jpeg
  [2]: http://www.blogcdn.com/www.engadget.com/media/2006/03/ssh-tunnel-diagram-ht.jpg
- [3]: http://wp.me/p6SpR-N
- [4]: http://wp.me/p6SpR-1g
+ [3]: /blog/2010/11/teil-1-erstellen-eines-ssh-servers-mit-hilfe-einer-fritzbox
+ [4]: /blog/2010/11/teil-2-erstellen-des-socks5-proxys
+ [5]: /blog/2010/11/teil-3-optimierung

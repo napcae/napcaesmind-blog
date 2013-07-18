@@ -12,6 +12,6 @@ Everything is hosted on my Raspberry now and this is just a test for my auto pos
 
 Here's a kitten video for your delight.
 <div class="elastic-video">
-<iframe width="520" height="315" src="//www.youtube.com/embed/D36JUfE1oYk" frameborder="0" allowfullscreen></iframe></div>
-
-
+<iframe src="http://www.youtube.com/embed/D36JUfE1oYk?theme=light"
+           frameborder="0" width="575" height="350" allowfullscreen="allowfullscreen"></iframe>
+</div>

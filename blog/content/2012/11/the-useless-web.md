@@ -4,7 +4,7 @@ Author: napcae
 Date: 2012/11/11
 */
 
-Eine Seite wie [I am bored][1]: [The Useless Web][2]. Schickt euch in die Gefilde des Internets, so wie ihr sie kennt <img src='http://198.211.112.164/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
+Eine Seite wie [I am bored][1]: [The Useless Web][2]. Schickt euch in die Gefilde des Internets, so wie ihr sie kennt :)
 
 via [René][3]
 

@@ -4,12 +4,12 @@ Author: napcae
 Date: 2012/03/28
 */
 
-Heute hat Amazon den [Kindle Touch][1] endlich auch in den deutschen Store gestellt. Absofort ist dieser für 129€(Wlan) oder 189€(UMTS) erhältlich. Wie auch schon in den vorigen Revisionen übernimmt Amazon dabei sämtliche UMTS Gebühren, auch Roaming im Ausland(!).  
-![][2]</img>  
+Heute hat Amazon den [Kindle Touch][1] endlich auch in den deutschen Store gestellt. Absofort ist dieser für 129€(Wlan) oder 189€(UMTS) erhältlich. Wie auch schon in den vorigen Revisionen übernimmt Amazon dabei sämtliche UMTS Gebühren, auch Roaming im Ausland(!).  <br>
+![][2]</img>  <br>
 Als Sahnehäubchen oben drauf, gibt es [Amazon Prime][3] ein ganzes Jahr kostenlos und danach vergünstigt für 15€ im Jahr(maximal 4 Jahre lang).  
 Mit Amazon Prime bekommt ihr den schnellen Versand gratis dazu. Das heißt also, wenn ihr heute etwas bestellt, bekommt ihr den Artikel garantiert am nächsten (Werk-)Tag. <img src='http://198.211.112.164/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
 
-[via caschy][4]
+via [caschy][4]
 
  [1]: http://www.amazon.de/dp/B005890FUI
  [2]: http://g-ecx.images-amazon.com/images/G/03/kindle/whitney/dp/de-kw-intro._V134401087_.jpg

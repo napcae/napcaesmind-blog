@@ -5,9 +5,14 @@ Date: 2012/10/01
 */
 
 Okay, klingt bisschen verwirrend. Die koreanische Gruppe [Jonpasang][1] hat für Hyundai als eine Installation ein riesiges Display namens [“Hyper-Matrix”][2] aus Styroporwürfeln gebaut. Hier erstmal das Video:  
-[vimeo http://www.vimeo.com/49384219 w=500&h=281] 
+<br>
+<div class="elastic-video"><iframe src="http://player.vimeo.com/video/46857169" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
+</div>
+<br>
 Das Making Of hinterher:  
-[vimeo http://www.vimeo.com/49384484 w=500&h=281]
+<br>
+<div class="elastic-video"><iframe src="http://player.vimeo.com/video/48285842" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
+</div>
 
  [1]: https://www.facebook.com/JONPASANG
  [2]: http://www.creativeapplications.net/environment/hyper-matrix-thousands-of-physical-pixels-in-a-180o-vertical-landscape/

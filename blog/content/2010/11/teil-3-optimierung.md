@@ -8,18 +8,18 @@ Date: 2010/11/04
 
 Im letzten Teil des Tutorials wird ein Passwortfreies Login durch Public Key Authentication ermöglicht.
 
-## Erstellen des Schlüssels<!--more-->
+## Erstellen des Schlüssels
 
 Öffnet auf eurer lokalen Computer ein Terminal und gebt folgendes ein
 
-> <pre>ssh-keygen -t rsa</pre>
+	$ ssh-keygen -t rsa<
 
-<pre><span style="font-family:Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;line-height:19px;white-space:normal;font-size:13px;">alle "Dialoge" mit Enter bestätigen</span></pre>
+alle "Dialoge" mit Enter bestätigen.
 
 Mit folgendem Befehl übertragt man seinen Key über scp auf seine FritzBox
 
-> <pre>scp ~/.ssh/id_rsa.pub root@euredomain.dyndns.org:$HOME/.ssh/authorized_keys</pre>
-
+	$ scp ~/.ssh/id_rsa.pub root@euredomain.dyndns.org:$HOME/.ssh/authorized_keys
+	
 Nun kann man sich jederzeit ohne Passwort auf seinen Server einloggen.  
 Anmerkung:  Schützt die Datei *~/.ssh/id_rsa* vor unberechtigten Zugriffen, denn damit loggt man sich ein!
 
@@ -27,33 +27,32 @@ Was bringt das einem nun? Zum einen ist das sicherer als ein Passwort, da man je
 
 ## Script
 
-<!--more-->
+
 
 Dies sieht so aus:
-
-> <pre>#! /bin/sh
-#This Script will open a dynamic ssh Tunnel to your server   	
-
-#activate Location "SOCKS5 - on the road"
-scselect xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-sleep 5
-
-#open tunnel
-ssh -D 9999 -p 443 -v root@euredomain.dyndns.org 
-
-#end</pre>
-
+	
+	#!/bin/sh
+    #This Script will open a dynamic ssh Tunnel to your server   	
+    #activate Location "SOCKS5 - on the road"
+    scselect xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    
+    sleep 5
+    
+    #open tunnel
+    ssh -D 9999 -p 443 -v root@euredomain.dyndns.org 
+    
+    #end
+    
 Findet zuerst heraus, wie die ID eures Netzwerkes ist
 
-> <pre>scselect</pre>
+	$ scselect
 
 Notiert euch die ID und ersetzt xxxxxxxxxxxxxx mit der ID
 
 Speichert das Script als *.command und es ist nach
 
-> <pre>chmod u+rwx *.command</pre>
-
+	$ chmod u+rwx *.command
+	
 mit einem Doppelklick ausführbar!
 
 So ist man sicher in Hotspots unterwegs =)

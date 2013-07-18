@@ -6,10 +6,9 @@ Date: 2011/07/18
 
 \*-\*
 
-[youtube http://www.youtube.com/watch?v=YkF5DMAerAo&w=510&h=290]
+<div class="elastic-video"><iframe width="560" height="315" src="//www.youtube.com/embed/YkF5DMAerAo?theme=light" frameborder="0" allowfullscreen></iframe></div>
 
 and by the way, new desktop background
 
-[<img src="http://napcae.files.wordpress.com/2011/07/bildschirmfoto-2011-07-18-um-13-51-04.png?w=300" alt="" title="Bildschirmfoto 2011-07-18 um 13.51.04" width="300" height="187" class="aligncenter size-medium wp-image-261" />][1]
+<img src="http://napcae.files.wordpress.com/2011/07/bildschirmfoto-2011-07-18-um-13-51-04.png?w=300" class="img-polaroid"/>
 
- [1]: http://napcae.files.wordpress.com/2011/07/bildschirmfoto-2011-07-18-um-13-51-04.png

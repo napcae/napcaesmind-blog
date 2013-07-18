@@ -8,7 +8,7 @@ Riusuke Fakahori zeichnet in Fische 3D. Er malt dazu jeweils eine Ebene, haut Ha
 
 Guckt euch lieber das Video an, das ist einfach zu begreifen:
 
-[youtube http://www.youtube.com/watch?v=AVJOQG_bpQM&w=560&h=315]
+<div class="elastic-video"><iframe width="560" height="315" src="//www.youtube.com/embed/AVJOQG_bpQM?theme=light" frameborder="0" allowfullscreen></iframe></div>
 
  
 

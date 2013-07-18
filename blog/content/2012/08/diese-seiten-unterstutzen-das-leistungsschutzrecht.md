@@ -4,273 +4,275 @@ Author: napcae
 Date: 2012/08/30
 */
 
-Zum Glück steht die Zeit nicht mit drin. Aber das die Süddeutsche und FAZ mit aufgelistet sind, wundert mich nicht.
+Zum Glück steht die Zeit nicht mit drin. Aber dass die Süddeutsche und FAZ mit aufgelistet sind, wundert mich nicht.
 
-aachener-zeitung.de  
-a-beig.de  
-abendblatt.de  
-abendzeitung.de  
-aerztezeitung.de  
-aller-zeitung.de  
-allgaeuer-anzeigeblatt.de  
-allgemeine-zeitung.de  
-all-in.de  
-alsfelder-allgemeine.de  
-an-online.de  
-art-magazin.de  
-augsburger-allgemeine.de  
-autobild.de  
-azonline.de  
-badisches-tagblatt.de  
-badische-zeitung.de  
-bams.de  
-barmstedter-zeitung.de  
-bayerische-staatszeitung.de  
-bb-live.de  
-bbv-net.de  
-berchtesgadener-anzeiger.de  
-bergedorfer-zeitung.de  
-bietigheimerzeitung.de  
-bild.de  
-bildderfrau.de  
-bkz-online.de  
-böhme-zeitung.de  
-boerse-online.de  
-borkenerzeitung.de  
-boyens-zeitungen.de  
-braunschweiger-zeitung.de  
-brigitte.de  
-brv-zeitung.de  
-bunte.de  
-burdastyle.de  
-bz-berlin.de  
-capital.de  
-cellesche-zeitung.de  
-chip.de  
-cinema.de  
-cn-online.de  
-computerbild.de  
-computeruniverse.net  
-der-bote.de  
-derpatriot.de  
-derwestallgaeuer.de  
-derwesten.de  
-dewezet.de  
-die-glocke.de  
-dieoberbadische.de  
-dill.de  
-dk.online.de  
-dld.com  
-dnn-online.de  
-donau.de  
-eberbacher-zeitung.de  
-echo-online.de  
-eltern.de  
-eppsteiner-zeitung.de  
-express.de  
-ez-online.de  
-ez-online.de  
-faz.net  
-flensborg-avis.de  
-flz.de  
-fnp.de  
-fnweb.de  
-focus.de  
-fr-aktuell.de  
-frankenpost.de  
-freundin.de  
-ftd.de  
-fuldaerzeitung.de  
-gaeubote.de  
-gala.de  
-gandersheimer-kreisblatt.de  
-ga-online.de  
-gea.de  
-geislinger-zeitung.de  
-gelnhaeuser-tageblatt.de  
-general-anzeiger-bonn.de  
-geo.de  
-giessener-allgemeine.de  
-giessener-anzeiger.de  
-gmuender-tagespost.de  
-gn-online.de  
-goettinger-tageblatt.de  
-gofeminin.de  
-goslarsche-zeitung.de  
-guterrat.de  
-haller-kreisblatt.de  
-hallertagblatt.de  
-hanauer-anzeiger.de  
-handelsblatt.com  
-han-online.de  
-harke-online.de  
-haz.de  
-hdv-direkt.de  
-hellwegeranzeiger.de  
-hersbrucker-zeitung.de  
-hersfelder-zeitung.de  
-heute.de  
-hildesheimer-allgemeine.de  
-hna.de  
-hnp-online.de  
-hofer-anzeiger.de  
-hofheimer-zeitung.de  
-hz-online.de  
-idowa.de  
-ikz-online.de  
-impulse.de  
-infranken.de  
-infranken.de  
-instyle.de  
-ivz-online.de  
-jolie.de  
-juedische-Allgemeine.de  
-kn-online.de  
-ksta.de  
-kwz.de  
-landes-zeitung.de  
-landeszeitung.de  
-leonberger-kreiszeitung.de  
-lesmads.de  
-ln-online.de  
-lr-online.de  
-ludwigsburger-kreiszeitung.de  
-lvz-online.de  
-lz-online.de  
-maedchen.de  
-maerkischeallgemeine.de  
-main-echo.de  
-mainpost.de  
-main-spitze.de  
-maintaltagesanzeiger.de  
-marbacher-zeitung.de  
-memmingen-online.de  
-merkur-online.de  
-mittelhessen.de  
-mopo.de  
-morgenpost.de  
-morgenweb.de  
-moz.de  
-mt-news.de  
-mt-online.de  
-muehlacker-tagblatt.de  
-muenstersche-zeitung.de  
-murrhardter-zeitung.de  
-mv-online.de  
-nachrichten.de  
-nationalgeographic.de  
-ndz.de  
-neon.de  
-neue-oz.de  
-neuepresse.de  
-nez.de  
-nnn.de  
-nn-online.de  
-nordbayerischer-kurier.de  
-nordkurier.de  
-nordsee-zeitung.de  
-np-coburg.de  
-nq-online.de  
-nrz.de  
-ntz.de  
-nw-news.de  
-nwz-online.de  
-nz-online.de  
-onmeda.de  
-on-online.de  
-op-marburg.de  
-osterholzer-kreisblatt.de  
-ostsee-zeitung.de  
-ovb-online.de  
-ov-online.de  
-oz.ehrenklau.de  
-oz-online.de  
-paz-online.de  
-pegnitz-zeitung.de  
-pfaelzischer-merkur.de  
-pm-magazin.de  
-pz-news.de  
-rems-zeitung.de  
-rga-online.de  
-rheiderland.de  
-rnz.de  
-rp-online.de  
-ruhrNachrichten.de  
-rundschau-online.de  
-saarbruecker-zeitung.de  
-schaumburger-zeitung.de  
-schifferstadter-tagblatt.de  
-schoener-wohnen.de  
-schwabacher-tagblatt.de  
-schwaebische.de  
-schwaebische-post.de  
-schwarzwaelder-bote.de  
-seesener-beobachter.de  
-segeberger-zeitung.de  
-selber-tagblatt.de  
-shz.de  
-siegener-zeitung.de  
-solinger-tageblatt.de  
-stern.de  
-stimme.de  
-stuttgarter-nachrichten.de  
-stuttgarter-zeitung.de  
-sueddeutsche.de  
-suedkurier.de  
-suedwest-aktiv.de  
-svz.de  
-swp.de  
-szbz.de  
-tagblatt.de  
-tageblatt.de  
-tagesschau.de  
-tah.de  
-tauber-zeitung.de  
-teckbote.de  
-torgauerzeitung.com  
-trostberger-tagblatt.de  
-tz-online.de  
-uena.de  
-usinger.anzeiger.net  
-verlag-dreisbach.de  
-view.stern.de  
-vkz.de  
-volksfreund.de  
-volksstimme.de  
-vwd.com  
-waiblinger-kreiszeitung.de  
-wa-online.de  
-waz.de  
-waz-online.de  
-wdr.de  
-welt.de  
-werra-rundschau.de  
-weser-kurier.de  
-westfaelische-rundschau.de  
-westfalen-blatt.de  
-westfalenpost.de  
-westline.de  
-westline.de/ahlener-zeitung  
-westline.de/mz  
-westline.de/wn  
-westline.de/zb  
-wetterauer-zeitung.de  
-wiesbadener-kurier.de  
-wiesbadener-tagblatt.de  
-wlz-fz.de  
-wnoz.de  
-wz-net.de  
-wz-newsline.de  
-wzonline.de  
-yuno-magazin.de  
-zak.de  
-zevener-zeitung.de  
-zollernalbkurier.de
+* aachener-zeitung.de  
+* a-beig.de  
+* abendblatt.de  
+* abendzeitung.de  
+* aerztezeitung.de  
+* aller-zeitung.de  
+* allgaeuer-anzeigeblatt.de  
+* allgemeine-zeitung.de  
+* all-in.de  
+* alsfelder-allgemeine.de  
+* an-online.de  
+* art-magazin.de  
+* augsburger-allgemeine.de  
+* autobild.de  
+* azonline.de  
+* badisches-tagblatt.de  
+* badische-zeitung.de  
+* bams.de  
+* barmstedter-zeitung.de  
+* bayerische-staatszeitung.de  
+* bb-live.de  
+* bbv-net.de  
+* berchtesgadener-anzeiger.de  
+* bergedorfer-zeitung.de  
+* bietigheimerzeitung.de  
+* bild.de  
+* bildderfrau.de  
+* bkz-online.de  
+* böhme-zeitung.de  
+* boerse-online.de  
+* borkenerzeitung.de  
+* boyens-zeitungen.de  
+* braunschweiger-zeitung.de  
+* brigitte.de  
+* brv-zeitung.de  
+* bunte.de  
+* burdastyle.de  
+* bz-berlin.de  
+* capital.de  
+* cellesche-zeitung.de  
+* chip.de  
+* cinema.de  
+* cn-online.de  
+* computerbild.de  
+* computeruniverse.net  
+* der-bote.de  
+* derpatriot.de  
+* derwestallgaeuer.de  
+* derwesten.de  
+* dewezet.de  
+* die-glocke.de  
+* dieoberbadische.de  
+* dill.de  
+* dk.online.de  
+* dld.com  
+* dnn-online.de  
+* donau.de  
+* eberbacher-zeitung.de  
+* echo-online.de  
+* eltern.de  
+* eppsteiner-zeitung.de  
+* express.de  
+* ez-online.de  
+* ez-online.de  
+* faz.net  
+* flensborg-avis.de  
+* flz.de  
+* fnp.de  
+* fnweb.de  
+* focus.de  
+* fr-aktuell.de  
+* frankenpost.de  
+* freundin.de  
+* ftd.de  
+* fuldaerzeitung.de  
+* gaeubote.de  
+* gala.de  
+* gandersheimer-kreisblatt.de  
+* ga-online.de  
+* gea.de  
+* geislinger-zeitung.de  
+* gelnhaeuser-tageblatt.de  
+* general-anzeiger-bonn.de  
+* geo.de  
+* giessener-allgemeine.de  
+* giessener-anzeiger.de  
+* gmuender-tagespost.de  
+* gn-online.de  
+* goettinger-tageblatt.de  
+* gofeminin.de  
+* goslarsche-zeitung.de  
+* guterrat.de  
+* haller-kreisblatt.de  
+* hallertagblatt.de  
+* hanauer-anzeiger.de  
+* handelsblatt.com  
+* han-online.de  
+* harke-online.de  
+* haz.de  
+* hdv-direkt.de  
+* hellwegeranzeiger.de  
+* hersbrucker-zeitung.de  
+* hersfelder-zeitung.de  
+* heute.de  
+* hildesheimer-allgemeine.de  
+* hna.de  
+* hnp-online.de  
+* hofer-anzeiger.de  
+* hofheimer-zeitung.de  
+* hz-online.de  
+* idowa.de  
+* ikz-online.de  
+* impulse.de  
+* infranken.de  
+* infranken.de  
+* instyle.de  
+* ivz-online.de  
+* jolie.de  
+* juedische-Allgemeine.de  
+* kn-online.de  
+* ksta.de  
+* kwz.de  
+* landes-zeitung.de  
+* landeszeitung.de  
+* leonberger-kreiszeitung.de  
+* lesmads.de  
+* ln-online.de  
+* lr-online.de  
+* ludwigsburger-kreiszeitung.de  
+* lvz-online.de  
+* lz-online.de  
+* maedchen.de  
+* maerkischeallgemeine.de  
+* main-echo.de  
+* mainpost.de  
+* main-spitze.de  
+* maintaltagesanzeiger.de  
+* marbacher-zeitung.de  
+* memmingen-online.de  
+* merkur-online.de  
+* mittelhessen.de  
+* mopo.de  
+* morgenpost.de  
+* morgenweb.de  
+* moz.de  
+* mt-news.de  
+* mt-online.de  
+* muehlacker-tagblatt.de  
+* muenstersche-zeitung.de  
+* murrhardter-zeitung.de  
+* mv-online.de  
+* nachrichten.de  
+* nationalgeographic.de  
+* ndz.de  
+* neon.de  
+* neue-oz.de  
+* neuepresse.de  
+* nez.de  
+* nnn.de  
+* nn-online.de  
+* nordbayerischer-kurier.de  
+* nordkurier.de  
+* nordsee-zeitung.de  
+* np-coburg.de  
+* nq-online.de  
+* nrz.de  
+* ntz.de  
+* nw-news.de  
+* nwz-online.de  
+* nz-online.de  
+* onmeda.de  
+* on-online.de  
+* op-marburg.de  
+* osterholzer-kreisblatt.de  
+* ostsee-zeitung.de  
+* ovb-online.de  
+* ov-online.de  
+* oz.ehrenklau.de  
+* oz-online.de  
+* paz-online.de  
+* pegnitz-zeitung.de  
+* pfaelzischer-merkur.de  
+* pm-magazin.de  
+* pz-news.de  
+* rems-zeitung.de  
+* rga-online.de  
+* rheiderland.de  
+* rnz.de  
+* rp-online.de  
+* ruhrNachrichten.de  
+* rundschau-online.de  
+* saarbruecker-zeitung.de  
+* schaumburger-zeitung.de  
+* schifferstadter-tagblatt.de  
+* schoener-wohnen.de  
+* schwabacher-tagblatt.de  
+* schwaebische.de  
+* schwaebische-post.de  
+* schwarzwaelder-bote.de  
+* seesener-beobachter.de  
+* segeberger-zeitung.de  
+* selber-tagblatt.de  
+* shz.de  
+* siegener-zeitung.de  
+* solinger-tageblatt.de  
+* stern.de  
+* stimme.de  
+* stuttgarter-nachrichten.de  
+* stuttgarter-zeitung.de  
+* sueddeutsche.de  
+* suedkurier.de  
+* suedwest-aktiv.de  
+* svz.de  
+* swp.de  
+* szbz.de  
+* tagblatt.de  
+* tageblatt.de  
+* tagesschau.de  
+* tah.de  
+* tauber-zeitung.de  
+* teckbote.de  
+* torgauerzeitung.com  
+* trostberger-tagblatt.de  
+* tz-online.de  
+* uena.de  
+* usinger.anzeiger.net  
+* verlag-dreisbach.de  
+* view.stern.de  
+* vkz.de  
+* volksfreund.de  
+* volksstimme.de  
+* vwd.com  
+* waiblinger-kreiszeitung.de  
+* wa-online.de  
+* waz.de  
+* waz-online.de  
+* wdr.de  
+* welt.de  
+* werra-rundschau.de  
+* weser-kurier.de  
+* westfaelische-rundschau.de  
+* westfalen-blatt.de  
+* westfalenpost.de  
+* westline.de  
+* westline.de/ahlener-zeitung  
+* westline.de/mz  
+* westline.de/wn  
+* westline.de/zb  
+* wetterauer-zeitung.de  
+* wiesbadener-kurier.de  
+* wiesbadener-tagblatt.de  
+* wlz-fz.de  
+* wnoz.de  
+* wz-net.de  
+* wz-newsline.de  
+* wzonline.de  
+* yuno-magazin.de  
+* zak.de  
+* zevener-zeitung.de  
+* zollernalbkurier.de
+
+
 
 Für alle die sich noch einmal informieren wollen, ein guter Bericht vom elektrischen Reporter
 
-[youtube http://www.youtube.com/watch?v=ph3XfZvpIZo&w=560&h=315]
-
+<div class="elastic-video"><iframe width="560" height="315" src="//www.youtube.com/embed/ph3XfZvpIZo?theme=light" frameborder="0" allowfullscreen></iframe></div>
+<br>
 via [Opalkatze][1]
 
  [1]: http://opalkatze.wordpress.com/2012/08/30/diese-seiten-unterstutzen-das-leistungsschutzrecht/

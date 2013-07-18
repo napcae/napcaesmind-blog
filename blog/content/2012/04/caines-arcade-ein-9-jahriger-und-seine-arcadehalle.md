@@ -4,22 +4,18 @@ Author: napcae
 Date: 2012/04/10
 */
 
-Caine baut seine eigenen Arcades – aus Karton! Guckt es euch an, es lohnt sich <img src='http://198.211.112.164/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> 
-
-[vimeo http://www.vimeo.com/40000072 w=400&h=225] 
-[Caine’s Arcade][1] from [Nirvan Mullick][2] on [Vimeo][3].
+Caine baut seine eigenen Arcades – aus Karton! Guckt es euch an, es lohnt sich :)
+<br>
+<div class="elastic-video"><iframe src="http://player.vimeo.com/video/40000072" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
+</div>
 
 Help Caine’s Scholarship Fund:  
-cainesarcade.com
+[cainesarcade.com](http://www.cainesarcade.com)
 
 Caine’s Arcade Online:  
-facebook.com/cainesarcade  
-twitter.com/cainesarcade
+[facebook](http://facebook.com/cainesarcade) 
+[twitter](http://twitter.com/cainesarcade)
 
 Credits:  
 Directed by Nirvan  
-twitter.com/nirvan
-
- [1]: http://vimeo.com/40000072
- [2]: http://vimeo.com/nirvan
- [3]: http://vimeo.com
+[twitter.com/nirvan](http://www.twitter.com/nirvan)
