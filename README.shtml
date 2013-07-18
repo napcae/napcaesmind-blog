@@ -5,18 +5,22 @@
 </div>
 <!-- row-fluid marketing-->
 <hr>
-<div class="footer">
-    <p> <small>
-        <a href="http://www.napcaesmind.de">napcae's mind</a> 2013
-        &middot; <a href="/impressum">About</a> &middot; <a href="/secured">Login</a>
-        <br><br>
-        <div align="center">proudly hosted on<img width="28" src="/img/raspi.png"></div>
-        </small>
-
-</div>
-<!-- /footer -->
-</div>
-<!-- /container -->
+ <div class="footer">
+                <div class="row-fluid">
+                    <div class="span6"><p>
+                        <a href="http://www.napcaesmind.de">napcae's mind</a> 2010 - 2013
+                        &middot; <a href="/impressum">About</a> &middot; <a href="/secured">Login</a> &middot; 
+                        <a href="/blog/feed"><img alt="feed" width="16" src="/img/iconmonstr-rss-3-icon">  RSS</a>
+                   </div>
+                    <br><br>
+                    <div align="center">proudly hosted on<img width="28" src="/img/raspi.png"></div>
+                    
+                </div>
+                <!-- row fluid -->
+            </div> 
+            <!-- /footer -->
+        </div>
+        <!-- /container -->
 </body>
 
 </html>
