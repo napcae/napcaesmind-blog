@@ -3,7 +3,7 @@
     
     <head>
         <meta charset="utf-8">
-        <title>napcae's mind &middot; Not Found</title>
+        <title>napcae's mind &middot; Authorization Required</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="Chi Trung Nguyen">
@@ -43,6 +43,10 @@
                 margin-top: 28px;
             }
         </style>
+        
+        <!--Google Open Fonts-->
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400,700,600,300' rel='stylesheet' type='text/css'>
+        
         <link href="/css/bootstrap-responsive.css" rel="stylesheet">
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
@@ -57,44 +61,71 @@
     </head>
     
     <body>
-        <div class="container-narrow">
+        <div class="container-narrow" style="padding:0 19px">
             <div class="masthead">
-                <ul class="nav nav-pills pull-right">
-                    <li class="active"><a href="#">Home</a>
-                    </li>
-                    <li><a target="_blank" href="http://blog.napcaesmind.de">Blog</a>
-                    </li>
-                    <li><a href="status.php">Systemstatus</a>
-                    </li>
-                    <li><a href="contact.html">Contact</a>
-                    </li>
-                </ul>
-                 <h3 class="muted">napcae's mind</h3>
-
-            </div>
+                                <div class="hidden-phone">
+                                    <ul class="nav nav-pills pull-right">
+                                        <li class="active">
+                                            <a href="/index.html">Home</a>
+                                        </li>
+                                        <li>
+                                            <a href="/blog">Blog</a>
+                                        </li>
+                                        <li>
+                                            <a href="/status.php">Systemstatus</a>
+                                        </li>
+                                        <li>
+                                            <a href="/contact.html">Contact</a>
+                                        </li>
+                                    </ul>
+                                     <h3 class="muted">napcae's mind</h3>   
+                                </div><!-- hidden phone -->
+                                
+                                <div class="visible-phone">
+                                <h3 class="muted">napcae's mind</h3>   
+                                    <ul class="nav nav-pills nav-stacked">
+                                        <li class="active">
+                                            <a href="/index">Home</a>
+                                        </li>
+                                        <li>
+                                            <a href="/blog">Blog</a>
+                                        </li>
+                                        <li>
+                                            <a href="/status.php">Systemstatus</a>
+                                        </li>
+                                        <li>
+                                            <a href="/contact.html">Contact</a>
+                                        </li>
+                                    </ul>
+                                     
+                                </div><!-- visible phone -->
             <hr>
-            <div class="jumbotron">
+             <div class="jumbotron">
                  <h1>Error!</h1>
 
                 <img width="200" src="/img/iconmonstr-danger-10-icon.png">
                 <p class="lead">404 - File not found</p>
                  <h4>The site you requested was not found on this server.</h4>
 
-            </div>
-            <center>
+            </div>            <center>
                 <p><a href="/index.html">Back</a>
                 </p>
             </center>
             <hr>
-            <div class="footer">
-                <p> <small>
-        <a href="http://www.napcaesmind.de">napcae's mind</a> 2013
-        &middot; <a href="http://napcae.wordpress.com/impressum/">About</a> &middot; <a href="/secured">Login</a>
-        <br><br>
-        <div align="center">proudly hosted on<img width="28" src="/img/raspi.png"></div>
-        </small>
-
-            </div>
+           <div class="footer">
+                <div class="row-fluid">
+                    <div class="span12"><p>
+                        <a href="http://www.napcaesmind.de">napcae's mind</a> 2010 - 2013
+                        &middot; <a href="/impressum">About</a> &middot; <a href="/secured">Login</a> &middot; 
+                        <a href="/blog/feed"><img alt="feed" width="16" src="/img/iconmonstr-rss-3-icon">  RSS</a>
+                   </div>
+                    <br><br>
+                    <div class="span12" style="text-align:center;">
+                        proudly hosted on<img width="28" src="/img/raspi.png">
+                    </div>
+                </div>
+                <!-- row fluid -->
+            </div> 
             <!-- /footer -->
         </div>
         <!-- /container -->

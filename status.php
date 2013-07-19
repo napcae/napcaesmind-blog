@@ -47,10 +47,8 @@
         margin-top: 28px;
       }
     </style>
-    
-     <!-- Adobe Typekit -->
-    <script type="text/javascript" src="//use.typekit.net/wvy8zpw.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400,700,600,300' rel='stylesheet' type='text/css'>
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -113,7 +111,7 @@
                 <table class="table table-bordered">
                     <th width="100px">Service</th><th width="200px">Status</th>
                     <?php
-                            $ip = "bounty";
+                            $ip = "mc.napcaesmind.de";
                             $port = "25565";
                             if ($check=@fsockopen($ip,$port,$ERROR_NO,$ERROR_STR,(float)0.5)) {
                                 fclose($check);
@@ -139,7 +137,7 @@
                     ?>
                     
                     <?php
-                            $ip = "bounty";
+                            $ip = "ts.napcaesmind.de";
                             $port = "10011";
                             if ($check=@fsockopen($ip,$port,$ERROR_NO,$ERROR_STR,(float)0.5)) {
                                 fclose($check);
