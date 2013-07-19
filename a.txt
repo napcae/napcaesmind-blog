@@ -1,5 +1,1 @@
-# robots.txt for http://www.napcaesmind.de/
-
-User-agent: UniversalRobot/1.0
-User-agent: n-Robot
-Disallow: /secured
+sadasdas
