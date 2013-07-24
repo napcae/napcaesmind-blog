@@ -1,5 +1,5 @@
 /* 
-Title: Moderat 
+Title: Moderat - "Bad Kingdom"
 Author: Chi Trung Nguyen 
 Date: 2013/07/24 
 */
