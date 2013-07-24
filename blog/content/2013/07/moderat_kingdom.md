@@ -1,4 +1,4 @@
-/* Title: Moderat - Bad Kingdom Author: Chi Trung Nguyen Date: 2013/07/24 */
+/* Title: Moderat Author: Chi Trung Nguyen Date: 2013/07/24 */
 
 Moderat, the electronic music group from Berlin released a new single called Bad Kingdom. <br>
 It features hand-drawn imagery which tells a story of corruption and greed.
