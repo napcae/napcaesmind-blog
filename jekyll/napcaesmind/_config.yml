@@ -1,0 +1,8 @@
+name: napcae's mind
+
+url: "[http://www.napcaesmind.de]"
+
+markdown: redcarpet
+pygments: true
+
+paginate: 5
