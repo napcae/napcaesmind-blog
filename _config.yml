@@ -5,4 +5,6 @@ url: "[http://www.napcaesmind.de]"
 markdown: redcarpet
 pygments: true
 
+exlude: [status.php]
+
 paginate: 5

@@ -3,24 +3,25 @@ layout: default
 title: Home
 active: home
 ---
-
 <!-- <div class="jumbotron">
          <h1>Hello!</h1>
 
         <p class="lead">Like a photographer sees his world with light and shadows, so do I with algorithms.</p>
     </div> 
     <hr>-->
-
+<div class="row marketing">
     {% for post in paginator.posts %}
+    <div class="col-md-3">  
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <h5>{{ page.date | date: "%-d %B %Y"}}</h5>
+    </div>
     
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-  </p>
-  <div class="content">
-    {{ post.content }}
-  <hr>
-  </div>
-{% endfor %}
-
+    <div class="col-md-9">
+        <div class="content">
+            {{ post.content }}
+            <hr>
+        </div>
+    </div>
+    {% endfor %}
 <center><a href="/archive">more...</a></center>
-
+</div>

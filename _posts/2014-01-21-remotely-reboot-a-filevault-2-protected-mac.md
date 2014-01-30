@@ -2,7 +2,7 @@
 layout: post
 title: Remotely reboot a FileVault 2 protected Mac
 ---
-<p>So this is one is pretty neat. 
+So this is one is pretty neat. 
 	
 If your Mac is far away(or you are lying in your bed) and you want to restart your Mac, you can just <code>sudo shutdown -r now</code>. </p>
 
