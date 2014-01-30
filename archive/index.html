@@ -4,10 +4,24 @@ title: Archive
 active: archive
 ---
 
-<ul>
-{% for post in site.posts %}
-  <li class="post">
-    {{ post.date | date: "%-d %B %Y" }} – <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+<div id="posts">
+
+	<input type="text" class="search form-control" placeholder="Search">
+
+</br>
+	<ul class="list" style="list-style: none;">
+	{% for post in site.posts %}
+	  <li class="list">
+	    <span class="date">{{ post.date | date: "%-d %B %Y" }}</span> – <a class="link" href="{{ post.url }}">{{ post.title }}</a>
+	  </li>
+	{% endfor %}
+	</ul>
+</div>
+
+<script type="text/javascript">
+var options = {
+  valueNames: [ 'date', 'link' ]
+};
+
+var userList = new List('posts', options);
+</script>

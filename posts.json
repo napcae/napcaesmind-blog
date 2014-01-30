@@ -1,0 +1,6 @@
+---
+layout: nil
+title: Home
+active: home
+---
+[{% for post in site.posts %}"{{ post.title }}",{% endfor %}]
