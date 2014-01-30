@@ -8,7 +8,7 @@ title: Hamburger Royal Käse
 </p>
 
 <div style="text-align:left;">
-  <a href="http://napcae.files.wordpress.com/2010/11/screen-shot-2010-11-09-at-18-26-18.png"><img class="size-medium wp-image-184 aligncenter" title="Screen shot 2010-11-09 at 18.26.18" src="http://napcae.files.wordpress.com/2010/11/screen-shot-2010-11-09-at-18-26-18.png?w=300" alt="" width="300" height="172" /></a>
+  <a href="http://napcae.files.wordpress.com/2010/11/screen-shot-2010-11-09-at-18-26-18.png"><img class="img-responsive" class="size-medium wp-image-184 aligncenter" title="Screen shot 2010-11-09 at 18.26.18" src="http://napcae.files.wordpress.com/2010/11/screen-shot-2010-11-09-at-18-26-18.png?w=300" alt="" width="300" height="172" /></a>
 </div>
 
 <h5 style="text-align:center;">
@@ -41,7 +41,7 @@ title: Hamburger Royal Käse
   </p>
   
   <p>
-    <img class="size-medium wp-image-189 alignleft" title="IMG_0684" src="http://napcae.files.wordpress.com/2010/11/img_0684-e1289388527846.jpg?w=224" alt="" width="224" height="300" /> Alles in Allem war’s ein großer Reinfall und hat uns nur Zeit gekostet. Nächstes mal probieren wir’s nochmal. (Die Karte, die am Automaten angeblich nicht lesbar war, funktionierte an der normalen Kasse übrigens wunderbar.)
+    <img class="img-responsive" class="size-medium wp-image-189 alignleft" title="IMG_0684" src="http://napcae.files.wordpress.com/2010/11/img_0684-e1289388527846.jpg?w=224" alt="" width="224" height="300" /> Alles in Allem war’s ein großer Reinfall und hat uns nur Zeit gekostet. Nächstes mal probieren wir’s nochmal. (Die Karte, die am Automaten angeblich nicht lesbar war, funktionierte an der normalen Kasse übrigens wunderbar.)
   </p>
   
   <p>
@@ -61,7 +61,7 @@ title: Hamburger Royal Käse
   </p>
   
   <p style="text-align:center;">
-    <a href="http://napcae.files.wordpress.com/2010/11/img_0689.jpg"><img class="size-medium wp-image-194 aligncenter" title="IMG_0689" src="http://napcae.files.wordpress.com/2010/11/img_0689.jpg?w=300" alt="" width="300" height="224" /></a>
+    <a href="http://napcae.files.wordpress.com/2010/11/img_0689.jpg"><img class="img-responsive" class="size-medium wp-image-194 aligncenter" title="IMG_0689" src="http://napcae.files.wordpress.com/2010/11/img_0689.jpg?w=300" alt="" width="300" height="224" /></a>
   </p>
   
   <p>

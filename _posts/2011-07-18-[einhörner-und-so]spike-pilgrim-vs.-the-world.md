@@ -9,4 +9,4 @@ title: "[Einhörner und so]Spike Pilgrim vs. The World"
 
 <p>and by the way, new desktop background</p>
 
-<p><img src="http://napcae.files.wordpress.com/2011/07/bildschirmfoto-2011-07-18-um-13-51-04.png?w=300" class="img-polaroid"/></p>
+<p><img class="img-responsive" src="http://napcae.files.wordpress.com/2011/07/bildschirmfoto-2011-07-18-um-13-51-04.png?w=300" class="img-polaroid"/></p>

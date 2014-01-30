@@ -5,7 +5,7 @@ title: Aka Aka & Thalstroem – Varieté [Review]
 
 <p>Auf kein Album habe ich mich dieses Jahr mehr gefreut, als auf Aka Aka &amp; Thalstroems “Varieté”. Seit dem Song Woody Woodpecker 2009 sind Hannes und Holger nicht mehr aus den Clubs wegzudenken.</p>
 
-<p><img src="http://www.exil-hamburger.de/wp-content/uploads/2011/05/aka-aka_variete_logo.jpg" border="1" /></p>
+<p><img class="img-responsive" src="http://www.exil-hamburger.de/wp-content/uploads/2011/05/aka-aka_variete_logo.jpg" border="1" /></p>
 
 <p>Nach zwei Jahren nun, erschien am Freitag endlich ihr Debütalbum. </p>
 
@@ -18,7 +18,7 @@ Noch mehr neue Seiten zeigen Thalstrom &amp; Aka Aka in “French Toast”. Rock
 “Afterglow” wieder von Betty Lenard gesungen. Ehrlich gesagt geht das Ding noch mehr ins Ohr als “The Rip”. Progressiv aufgebaut bis zum Finale in der Mitte des Songs, entlädt er seine ganze Energie nicht so ganz kraftvoll wie “Springtide”, aber immer noch mehr als gut.<br />
 Einer meiner Lieblingssongs des Albums ist “Tes Stephraenze”. Entspannt, minimalistisch mit sehr melodischen Einsätzen und Akzente dort gesetzt, wo sie hingehören. Ein Ohrwurm der seines gleichen sucht. Das E-Piano klingt knackig, präsent und ich meine sogar einen Kontrabass zu hören. BÄM. Geiler Song.<br />
 Ein weiteres Cover, “Dupscheck”. Man höre sich das Original von Otto Waalkes an und dann das Cover. Sehr gut gelungen und man versteht den Spaß den die Jungs dabei hatten.<br />
-Nach eigenen Angaben sogar selber gesungen – vielleicht hätte David Sänger werden sollen <img src='http://198.211.112.164/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /><br />
+Nach eigenen Angaben sogar selber gesungen – vielleicht hätte David Sänger werden sollen <img class="img-responsive" src='http://198.211.112.164/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /><br />
 “Bretterbude” bringt zwar noch mehr Abwechslung ins Album, aber nach meinem Geschmack schon fast zu viel des guten. Ich werde’ jedenfalls noch etwas Zeit brauchen, bis ich mich mit dem Tobak anfreunden kann.<br />
 Die Nummer zehn der Platte wird hoffentlich in den üblichen Clubs laufen. Etwas schneller und n tanzbarer Track. “Nozzle” trumpft mit dicken Synthesizern und nem düsteren Sound. Ab dafür!<br />
 Viel klarer und mit mehr Biss präsentiert sich “Woody Woodpecker 2011″. Das Grundgerüst ist gefühlt gleichgeblieben, der Track zeigt sich aber präsenter und ausgeglichener. Man hat aufjedenfall das Gefühl, dass die beiden sich in der Studioarbeit weiterentwickelt haben.<br />

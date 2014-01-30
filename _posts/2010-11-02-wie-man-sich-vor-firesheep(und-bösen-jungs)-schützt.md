@@ -15,7 +15,7 @@ title: Wie man sich vor Firesheep(und bösen Jungs) schützt
 <br>
 Um sich davor  zu schützen, hilft es einen SSH Tunnel zu bauen und darüber zu surfen. So hat man stets eine verschlüsselte Verbindung.</p>
 
-<p><img src="http://dl.dropbox.com/u/689724/wordpress/ssh-tunnel-diagram-ht.jpeg" alt="" /><br />
+<p><img class="img-responsive" src="http://dl.dropbox.com/u/689724/wordpress/ssh-tunnel-diagram-ht.jpeg" alt="" /><br />
 SSH Tunnel(<a href="http://www.blogcdn.com/www.engadget.com/media/2006/03/ssh-tunnel-diagram-ht.jpg">Engadget</a>)</p>
 
 <p>Auf den folgenen Seiten werde ich nach und nach erklären wie man einen SSH Server aufsetzt, einen SOCKS5 Proxy verwendet und somit sicher in offenen Hotspots surfen kann.</p>

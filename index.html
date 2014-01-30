@@ -3,25 +3,50 @@ layout: default
 title: Home
 active: home
 ---
-<!-- <div class="jumbotron">
-         <h1>Hello!</h1>
-
-        <p class="lead">Like a photographer sees his world with light and shadows, so do I with algorithms.</p>
-    </div> 
-    <hr>-->
 <div class="row marketing">
-    {% for post in paginator.posts %}
-    <div class="col-md-3">  
-        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-        <h5>{{ page.date | date: "%-d %B %Y"}}</h5>
-    </div>
-    
-    <div class="col-md-9">
-        <div class="content">
-            {{ post.content }}
-            <hr>
-        </div>
-    </div>
-    {% endfor %}
-<center><a href="/archive">more...</a></center>
-</div>
+   <div class="content">
+      <center>
+         <div class="col-md-3">  
+            <img class="img-circle" width="160px" src="https://de.gravatar.com/userimage/1708389/ce2ba0cef2d4d031a4c2208d75d5392b.jpg?size=200">
+         </div>
+      </center>
+      <div class="col-md-9">
+         <h2>Chi Trung Nguyen (*1991)</h2>
+         <!--  
+            <img width="20" src="/img/iconmonstr-arrow-25-icon.png">
+              -->
+         <h4>I am a Hacker, Webdeveloper, MacHead and Student. I'm from Berlin and currently live in Munich.</h4>
+         </br>
+      </div>
+      <div class="col-md-12">
+         If you would like to get in touch with me, feel free to message me via mail [at] ctnguyen [dot] net or leave 
+         a <a href="https://twitter.com/napcae">tweet</a> for me.
+         You can also visit my <a href="http://de.linkedin.com/pub/chi-trung-nguyen/89/681/749/">LinkedIn</a> 
+         or <a href="http://www.xing.com/profile/ChiTrung_Nguyen">XING</a> Profile, 
+         a resume is available online too. Leave me a message and I'll send you the link.
+         To see with what code I'm fiddling or playing at the moment, visit <a href="https://github.com/napcae">GitHub</a>.</br>
+         I occasionally take photos on <a href="http://instagram.com/napcae">Instagram</a> or 
+         make music on <a href="https://soundcloud.com/napcae">SoundCloud</a>.
+         If you want to find out our music compatibility, take a tour at <a href="http://www.lastfm.de/user/napcae">Last.FM</a>.
+      </div>
+
+      <div class="col-md-12">
+         <hr>
+         <h3>Latest Post</h3>
+        </br>
+      </div>
+
+      {% for post in site.posts limit:1 %}
+      <div class="col-md-3">
+         <h4>{{ post.title }}</a></h4>
+         <h5>{{ page.date | date: "%-d %B %Y"}}</h5>
+      </div>
+
+      <div class="col-md-9">
+         <div class="content">
+            {{ post.excerpt }} <a href="{{ post.url }}">[...]</a>
+         </div>
+      </div>
+      {% endfor %}
+   </div><!-- content-->
+</div><!-- row marketing-->
