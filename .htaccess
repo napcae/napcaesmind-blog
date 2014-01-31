@@ -44,6 +44,7 @@ FileETag None
 
   # JavaScript
     ExpiresByType application/javascript                "access plus 1 week"
+    ExpiresByType text/x-javascript                     "access plus 1 week"
 
   # Manifest files
     ExpiresByType application/x-web-app-manifest+json   "access plus 0 seconds"
