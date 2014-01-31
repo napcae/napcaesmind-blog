@@ -1,14 +1,13 @@
-Header unset Pragma
-FileETag None
-Header unset ETag
-
-<FilesMatch "\.(ico|jpg|jpeg|png|gif|js|css|swf|pdf|flv|mp3)$">
-<IfModule mod_expires.c>
- ExpiresActive on
-  ExpiresDefault "access plus 14 days"
-   Header set Cache-Control "public"
-   </IfModule>
-   </FilesMatch>
-   <FilesMatch "\.(html|htm|xml|txt|xsl)$">
-    Header set Cache-Control "max-age=7200, must-revalidate"
-    </FilesMatch>
+ExpiresActive On
+ExpiresByType image/gif A2592000
+ExpiresByType image/jpeg A2592000
+ExpiresByType image/jpg A2592000
+ExpiresByType image/png A2592000
+ExpiresByType image/x-icon A2592000
+ExpiresByType text/css A86400
+ExpiresByType text/javascript A86400
+ExpiresByType application/x-shockwave-flash A2592000
+#
+<FilesMatch "\.(gif¦jpe?g¦png¦ico¦css¦js¦swf)$">
+Header set Cache-Control "public"
+</FilesMatch>
