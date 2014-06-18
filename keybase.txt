@@ -1,0 +1,61 @@
+==================================================================
+https://keybase.io/napcae
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ctnguyen.net
+  * I am napcae (https://keybase.io/napcae) on keybase.
+  * I have a public key with fingerprint 9A12 9203 6D40 BE68 1E66  EAE8 6608 589A 4D08 2FE1
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "9a1292036d40be681e66eae86608589a4d082fe1",
+            "host": "keybase.io",
+            "key_id": "6608589a4d082fe1",
+            "uid": "2433ec5b71442b0ec995959c7e7c8400",
+            "username": "napcae"
+        },
+        "service": {
+            "hostname": "ctnguyen.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1403083246,
+    "expire_in": 157680000,
+    "prev": "386b099ec911ac03d76351cbfebe6b28269992aa00acba65dc0e77687fe0152e",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.22
+Comment: https://keybase.io/crypto
+
+yMEKAnicbVFPaxQxFB/rH+qKsOsXUAIeKsuaZGYyyXgSPNaDqKAgLknm7TZWM+PM
+7NZlsX4B8SD0UnrxAwjerCBaxVuvxbsieFIEoRdr6Zul3kwOIb/3+5OX9+n00aDV
+GczfWr86f/HLke2tX6Pg+ovbP6fE5NmEpFOyDLNj4PwQyqJ0viYpUZpxxWkosoga
+EJKBEKBBCkFlLJWOMir5ABjpkqW8ahRoY3QFPZcjhpe+yxD9D380K/AoDMHGJmFR
+xA0Fq1SM2yaQWBlR2hArKL1+AMj2urAayOMuQWzsLGLTWfBh3dZ+OJqA73moUVmU
+eZ3b/D5Wluq6qNJGWU+KhroCpn9o0jfOZ9g2KsZQVi73JGXItLVrXFlEQypDHoku
+gUeFK6HvGkacCElxNTkwRstQCkOVwh4Y05aGWSLCmFkzAPw6wyUXSimuNaXaGi3i
+zFJI0CQZAGUxB8yv4KHPSRriM/UQLSs39Loeldjzx7vHgk4rOHF8rplb0DrZ/jfN
+D9+C/YU7z9t/r3xdfTe3u3H5aWdnsxctlz/2NhZerZ66di/bCvYvPPv9dqW9uf36
+3NrNG5eefF78s7f7/c2ZxfM76+bl2tn3B1RltLo=
+=EJJC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/napcae
+
+==================================================================
+
