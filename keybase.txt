@@ -4,11 +4,11 @@ https://keybase.io/napcae
 
 I hereby claim:
 
-  * I am an admin of https://ctnguyen.net
+  * I am an admin of http://ctnguyen.net
   * I am napcae (https://keybase.io/napcae) on keybase.
   * I have a public key with fingerprint 9A12 9203 6D40 BE68 1E66  EAE8 6608 589A 4D08 2FE1
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
@@ -16,40 +16,47 @@ To claim this, I am signing this object:
             "fingerprint": "9a1292036d40be681e66eae86608589a4d082fe1",
             "host": "keybase.io",
             "key_id": "6608589a4d082fe1",
+            "kid": "01110aea19f4b610aeda4e48a57d5294d3145cdd4465628fa4485d09d51a640aa0490a",
             "uid": "2433ec5b71442b0ec995959c7e7c8400",
             "username": "napcae"
         },
+        "revoke": {
+            "sig_ids": [
+                "a46b3e0f434724cae7b8d18713f4f42a6819193a04ea32a6fe1b6d6d3adf0fc50f"
+            ]
+        },
         "service": {
             "hostname": "ctnguyen.net",
-            "protocol": "https:"
+            "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1403083246,
+    "ctime": 1436980710,
     "expire_in": 157680000,
-    "prev": "386b099ec911ac03d76351cbfebe6b28269992aa00acba65dc0e77687fe0152e",
-    "seqno": 3,
+    "prev": "05cc883ef073249f54288dd1dc44d000370b46c594883280e222a86a5b098007",
+    "seqno": 27,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v0.1.22
-Comment: https://keybase.io/crypto
+Comment: GPGTools - http://gpgtools.org
 
-yMEKAnicbVFPaxQxFB/rH+qKsOsXUAIeKsuaZGYyyXgSPNaDqKAgLknm7TZWM+PM
-7NZlsX4B8SD0UnrxAwjerCBaxVuvxbsieFIEoRdr6Zul3kwOIb/3+5OX9+n00aDV
-GczfWr86f/HLke2tX6Pg+ovbP6fE5NmEpFOyDLNj4PwQyqJ0viYpUZpxxWkosoga
-EJKBEKBBCkFlLJWOMir5ABjpkqW8ahRoY3QFPZcjhpe+yxD9D380K/AoDMHGJmFR
-xA0Fq1SM2yaQWBlR2hArKL1+AMj2urAayOMuQWzsLGLTWfBh3dZ+OJqA73moUVmU
-eZ3b/D5Wluq6qNJGWU+KhroCpn9o0jfOZ9g2KsZQVi73JGXItLVrXFlEQypDHoku
-gUeFK6HvGkacCElxNTkwRstQCkOVwh4Y05aGWSLCmFkzAPw6wyUXSimuNaXaGi3i
-zFJI0CQZAGUxB8yv4KHPSRriM/UQLSs39Loeldjzx7vHgk4rOHF8rplb0DrZ/jfN
-D9+C/YU7z9t/r3xdfTe3u3H5aWdnsxctlz/2NhZerZ66di/bCvYvPPv9dqW9uf36
-3NrNG5eefF78s7f7/c2ZxfM76+bl2tn3B1RltLo=
-=EJJC
+owFtUj1oFEEUvmgiZ4I/sRdx0h5xft7MzpxgoYUgaKeIf+fszNvLcnH33NtcDMFe
+REgsBNFWhIA2ItjYWQXBykaxEWxsItjGwrdH7JwpZt6bb773vW9m89D+Vns+a199
+drF96vvUx59p6/LLJzvrLC3jGuuuswFOliwv+lgNq7yoWZc5L6STXJkIPEVjBRqD
+Hq0x3GrrPERuZYaCddhSOWpuEE3qR7iYl5SjoJdHyv4HP5gccCEE9+iFyyA1zTZ6
+QLBeJ1FLB1EJ0CFGAKONtJkHsDpyF7XwBrj3HBz3RLcyoZOgFAadJgJAphyDc5pm
+SDAJFjhvgCOsCn8HCV34YfDI7ndYheNygE3/o7xPkkese515MKlCnoGCRAIhk9RG
+YROhMshAerLDCadIAnpFIfWVmmii8jHjWdA8YzeJm+qN8zAhbzzaqx3qor+yhsVi
+gTWpGlZlXYZymU6W6nrYbUTVa8MGuYppb4+jl+ZFpAeiC2OsRnlZsK4gZKjzhlSA
+Ms7yRPAOw3vDvMJe3iB0Yiyn0ZTBceO6DuGGtQoznigJLtMgrY1RxAD0RJyrhKdg
+gnZAKGk5Sim9NV6nnArwhDVt3S1K1pUJCfV9IiXnCl+vVGTo7INb0635duvAzL7m
+k7VmDx799/MOP2r9mSvnZi5c+9A5v/Hq9sLg4dl3J/Wgft879gZXt45v/iinWq93
+t39Pb5/eeXHp89K3x+eu7G6d+fp089fbIxvPtz59ObHwFw==
+=F2dA
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -58,4 +65,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/napcae
 
 ==================================================================
-
