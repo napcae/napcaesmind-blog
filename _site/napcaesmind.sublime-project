@@ -1,0 +1,41 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/napcae/git/napcaesmind-blog"
+		},
+		{
+			"path": "_drafts"
+		},
+		{
+			"path": "_includes"
+		},
+		{
+			"path": "_layouts"
+		},
+		{
+			"path": "_posts"
+		},
+		{
+			"path": "_site"
+		},
+		{
+			"path": "about"
+		},
+		{
+			"path": "archive"
+		},
+		{
+			"path": "assets"
+		},
+		{
+			"path": "blog"
+		},
+		{
+			"path": "error"
+		},
+		{
+			"path": "report"
+		}
+	]
+}
