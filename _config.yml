@@ -6,7 +6,9 @@ markdown: redcarpet
 highligther: pygments
 
 exlude: [status.php]
+include: [.well-known]
 
 gems: [jekyll-paginate]
 paginate: 5
 paginate_path: /blog/page:num/
+
