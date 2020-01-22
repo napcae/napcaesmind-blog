@@ -2,7 +2,8 @@ name: Chi Trung Nguyen
 
 #url: "[http://www.napcaesmind.de]"
 
-markdown: redcarpet
+#markdown: redcarpet
+markdown: kramdown
 highligther: pygments
 
 exlude: [status.php]
