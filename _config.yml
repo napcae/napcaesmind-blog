@@ -1,6 +1,7 @@
 name: Chi Trung Nguyen
 
 #url: "[http://www.napcaesmind.de]"
+host: 0.0.0.0
 
 #markdown: redcarpet
 markdown: kramdown
